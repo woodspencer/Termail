@@ -2,8 +2,8 @@ Termail
 ====
 
 	Termail is an evolution of PyMail. It is a full command line e-mail
-client. Termail is a lot more friendly than your normal e-mail client,
-faster, and a great alternative to using a browser based solution.
+	client. Termail is a lot more friendly than your normal e-mail client,
+	faster, and a great alternative to using a browser based solution.
 
 Features:
 
@@ -64,8 +64,8 @@ Usage
 Dependencies
 ====
 
-`python` version 2.6 or greater, may work on Python 3.
-Internet connection.
+	`python` version 2.6 or greater, may work on Python 3.
+	Internet connection.
 
 
 License
