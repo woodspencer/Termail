@@ -80,37 +80,37 @@ if __name__=='__main__':
 					  dest ='username',
 					  default = False,
 					  type ='string',
-					  help ='Sender E-mail address')
+					  help ='Sender E-mail address.')
 	parser.add_option('-s',
 					  '--subject',
 					  dest ='subject',
 					  default = "",
 					  type ='string',
-					  help ='Subject of E-mail')
+					  help ='Subject of E-mail.')
 	parser.add_option('-r',
 					  '--recipient',
 					  dest ='recipient',
 					  default = '',
 					  type ='string',
-					  help ='Recipient of E-mail address')
+					  help ='Recipient E-mail address.')
 	parser.add_option('-d',
 					  '--from_name',
 					  dest ='from_name',
 					  default = '',
 					  type ='string',
-					  help ='Display name to send')
+					  help ='Display name to send.')
 	parser.add_option('-n',
 					  '--recipient_name',
 					  dest ='recipient_name',
 					  default = '',
 					  type ='string',
-					  help ="Recipient of E-mail's name")
+					  help ="Name of recipient.")
 	parser.add_option('-m',
 					  '--message',
 					  dest ='body',
 					  default = "",
 					  type ='string',
-					  help ='Message of E-mail')
+					  help ='Message of E-mail.')
 	parser.add_option('-p',
 					  '--path',
 					  dest ='file_path',
