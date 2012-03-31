@@ -5,30 +5,30 @@ Termail
 	client. Termail is a lot more friendly than your normal e-mail client,
 	faster, and a great alternative to using a browser based solution.
 
-Features:
+	Features:
 
-Send personalized emails by changing how your recipent sees your name:
+	Send personalized emails by changing how your recipent sees your name:
 
 	From: John Doe <johndoe@gmail.com>
 	From: Jane Doe <johndoe@gmail.com>
 
-Change how the recipient sees their own name:
+	Change how the recipient sees their own name:
 
 	To: Jack Sprat <person@live.com>
 	To: Jack, our valued customer <person@live.com>
 	
-Attach files easily on the command line:
+	Attach files easily on the command line:
 	
 	- ~/pictures/thumb_cat_picture.png
 
-Attach all top level files in a directory:
+	Attach all top level files in a directory:
 	
 	- ~/c/my_project/
 
-Keeps your password (we all know it is ********) hidden with getpass!
+	Keeps your password (we all know it is ********) hidden with getpass!
 
-Termail was written with Python's core libraries in mind. This means no
-hunting down additional libraries or mucking about with a config file!
+	Termail was written with Python's core libraries in mind. This means no
+	hunting down additional libraries or mucking about with a config file!
 
 Usage
 ====
